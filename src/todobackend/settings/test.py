@@ -12,6 +12,7 @@ NOSE_ARGS = [
     '--verbosity=2',
     '--nologcapture',
     '--with-coverage',
+    '--cover-package=todo',
     '--with-spec',
     '--spec-color',
     '--with-xunit',
