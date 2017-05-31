@@ -9,5 +9,5 @@ venv
 
 # Ignore testing artifacts
 .coverage
-converage.xml
+coverage.xml
 unittests.xml
